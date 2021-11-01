@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # $whoami
-![View Counter](https://komarev.com/ghpvc/?username=kazuki0824&color=brightgreen)
+![View Counter](https://komarev.com/ghpvc/?username=demisequaret&color=brightgreen)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=demisequartet&layout=compact)
 
 
