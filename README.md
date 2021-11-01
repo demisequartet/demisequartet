@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+# $whoami
+![View Counter](https://komarev.com/ghpvc/?username=kazuki0824&color=brightgreen)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=demisequartet&layout=compact)
 
 
