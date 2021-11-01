@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=demisequartet&layout=compact)
+![Spotify Recently Listened](https://spotify-recently-played-readme.vercel.app/api?user=4zxtnmtfmwa9crtgndsdmcyzl&count=3&unique=on)
 
 
